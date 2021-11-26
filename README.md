@@ -1,1 +1,1 @@
-Yeah, hi. I've been a hobbyist programmer of sorts on and off since 2008. I've used many languages to varying extents, everything from 65816 ASM to Rust. For the most part to this day I use Python, C, and C++ for a majority of my weird little projects.
+Yeah, hi. I've been dabbling in programming on and off since 2008. I've used many languages to varying extents, everything from 65816 ASM to Rust. For the most part to this day I use Python, C, and C++ for a majority of my weird little projects.
